@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemoTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59129b62-1433-4553-a69f-692aa1e232b4</testCaseGuid>
+   <variable>
+      <defaultValue>'mikica'</defaultValue>
+      <description></description>
+      <id>89960fe4-df22-42b6-ad91-8c960d32eb3f</id>
+      <masked>false</masked>
+      <name>usernameVar</name>
+   </variable>
+   <variable>
+      <defaultValue>'lelemud'</defaultValue>
+      <description></description>
+      <id>1480b54d-502b-457f-8c30-5ac938020331</id>
+      <masked>false</masked>
+      <name>jobVar</name>
+   </variable>
+</TestCaseEntity>
